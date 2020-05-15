@@ -1,1 +1,1 @@
-my_group = []
+my_group = ["Odeane","tracey","Oona"]
