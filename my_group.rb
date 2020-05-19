@@ -26,5 +26,5 @@ person_3 ={
 ]
 
 my_group.each do |person|
-    puts "#{person["name"]} is a #{person["age"]} man"
+    puts "#{person["name"]} is a #{person["age"]} year old #{person["gender"]}"
 end
