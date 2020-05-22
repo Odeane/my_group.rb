@@ -11,6 +11,11 @@ movies = {
     "The Godfather" => 1972
 }
 
+
 movies.each do |name, date| 
     puts "#{date}"
+    year = date.each
 end
+ 
+
+
