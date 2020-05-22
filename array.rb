@@ -13,3 +13,11 @@ puts ray
 
 arr = [["test", "hello", "world"],["example", "mem"]]
 puts arr[1][0]
+
+
+
+arr =[15,7,18,5,12,8,5,1]
+puts arr[5]
+
+string = "welcome to America"
+puts a = string[6]
