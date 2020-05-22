@@ -13,13 +13,10 @@ movies = {
 
 
 movies.each do |name, date| 
-    puts "#{date}"
-    year = date.each
+     puts year = date
 end
- 
-=begin
-    need to add array
-rescue => exception
-    
-end
+
+
+arr = movies.values
+puts arr
 
