@@ -17,5 +17,9 @@ movies.each do |name, date|
     year = date.each
 end
  
-
+=begin
+    need to add array
+rescue => exception
+    
+end
 
